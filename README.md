@@ -1,2 +1,2 @@
 # learning-github
-Learning Github
+Learning Github Throught Examples
